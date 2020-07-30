@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
+excerpt: "Ecology and Evolution of Arthropods and their symbionts"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an evolutionary biologist interested in understanding the evolution of gene-gene interactions between symbiont genomes and nuclear genomes in insects. Through evolution, insects have acquired intimate symbiotic microorganisms, including microbes and mitochondria, which provided great benefits to insect hosts, facilitating the adaptation and diversification of the hosts. Symbiont genes (including both microbial and mitochondrial genes) and host nuclear genes cooperate closely with each other in critical pathways, such as energy production and essential amino acids biosynthesis. However, as symbiont genomes are haploid, maternally inherited, and lacking in recombination, symbiont genomes exhibit higher evolutionary rates than host nuclear genes. This incompatibility between symbiont and host genes could lead to inviable offspring and change of sex ratio, which can lead to change of host fitness and speciation events. 
+
+Using next generation sequencing and bioinformatic tools, I am interested in: 
+1. What are the genes involved in host-symbiont interactions?
+1. How do arthropod hosts response to the deleterious mutations accumulated in the symbiont genes? 
+1. How do symbionts interact with each other within the same host?
+
 
 A data-driven personal website
 ======
